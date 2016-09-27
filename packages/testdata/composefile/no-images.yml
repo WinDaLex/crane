@@ -1,0 +1,4 @@
+version: "2"
+services:
+  hi: 
+    working_dir: /usr
